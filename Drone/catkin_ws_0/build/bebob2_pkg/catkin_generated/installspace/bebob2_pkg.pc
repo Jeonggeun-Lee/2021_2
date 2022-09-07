@@ -1,0 +1,8 @@
+prefix=/home/dron/catkin_ws/install
+
+Name: bebob2_pkg
+Description: Description of bebob2_pkg
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime geometry_msgs rospy std_msgs
