@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Moon/Moon_Scene/Start.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Moon/Moon_Scene/Title.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Moon/Moon_Scene/Lobby.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scene/Main.unity
+  isLoaded: 1
+  isActive: 1

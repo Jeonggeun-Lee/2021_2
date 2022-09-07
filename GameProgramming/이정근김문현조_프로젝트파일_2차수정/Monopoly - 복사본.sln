@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monopoly - 복사본", "Assembly-CSharp.csproj", "{FE61E550-D069-BDA1-88B8-D0917E7BF70B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monopoly - 복사본", "Assembly-CSharp-Editor.csproj", "{EE06309F-AE4B-BB92-D672-39EC82C2CB56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE61E550-D069-BDA1-88B8-D0917E7BF70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE61E550-D069-BDA1-88B8-D0917E7BF70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE61E550-D069-BDA1-88B8-D0917E7BF70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE61E550-D069-BDA1-88B8-D0917E7BF70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE06309F-AE4B-BB92-D672-39EC82C2CB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE06309F-AE4B-BB92-D672-39EC82C2CB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE06309F-AE4B-BB92-D672-39EC82C2CB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE06309F-AE4B-BB92-D672-39EC82C2CB56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
