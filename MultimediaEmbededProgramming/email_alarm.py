@@ -8,7 +8,7 @@ import threading
 import os
 
 ID = 'nalbojima'
-PW = '2agl2sn2st#'
+PW = ''
 IMAP_SERVER = 'imap.daum.net'
 sleep_time_sec = 60
 
